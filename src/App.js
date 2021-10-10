@@ -19,14 +19,16 @@ function App() {
     <React.Fragment>
       <div className="main-div" ref={confettiRef}>
         <div className="center_div">
-          <p>Wishing You a Very Happy Birthday </p>
+          <p>Wishing You a Very Happy Birthday Love!!</p>
           🎂
           <p>
             Stay Happy & Bleesed <br />
+            
             <div className="animate">
               <div class="love"></div>
             </div>
-            from Soumyadeep
+            <br/>
+            from Kaleem
             <Confetti
               numberOfPieces={250}
               width={width}

@@ -15,7 +15,7 @@ firebase-debug.log*
 firebase.json
 
 # production
-/build
+# /build
 
 # misc
 .DS_Store
